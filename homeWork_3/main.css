@@ -1,0 +1,21 @@
+* {
+    color:white;
+}
+.container {
+    display: block;
+    padding: 0;
+    }
+    .head {
+        font-size: 120%;
+        color: white;
+        background-color:#563D7C;
+        border-radius: 5px;
+        padding-left: 15px;
+    }
+    .homeWork {
+        font-size: 130%;
+        background-color: #563D7C;
+        border-radius: 5px;
+        padding: 10px 10px 10px 10px;
+    }
+    
