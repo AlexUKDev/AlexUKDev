@@ -1,0 +1,38 @@
+body, html {
+    height:100%;
+    margin:0;
+}
+body {
+    position: relative;
+    background:#1c1d21;
+    font-family:"Operator Mono Lig";
+}
+.container {
+    position: absolute;
+    transform: translate(-50%,-50%);
+    width:500px;
+    left: 50%;
+    top:50%;
+    border: 2px solid #cdd3de;
+}
+.item {
+    margin:10px;
+    margin-right:0;
+    color:#ba81b2;
+    border: 2px solid #62b3b2;
+    width:100px;
+    
+}
+.item:last-child{
+    margin:10px;
+}
+
+
+
+
+/* Flaxbox */
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+}

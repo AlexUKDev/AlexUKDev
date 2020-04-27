@@ -1,0 +1,55 @@
+body, html {
+    height:100%;
+    margin:0;
+}
+body {
+    position: relative;
+    background:#1c1d21;
+    font-family:"Operator Mono Lig";
+}
+
+.massages {
+    background:#C7E3DB;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+    border-radius: 7px;
+    left: 30%;
+}
+
+.cont_1{
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+}
+.blok_1 {
+    background-color:#FF7E2C;
+    border-radius: 15px;
+    padding: 10px 10px 10px 10px;
+    margin: 5px 5px 5px 5px;
+     
+}
+
+.cont_2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blok {
+ background-color: #99B5AD;
+ padding: 10px 10px 10px 10px;
+ margin: 5px 5px 5px 5px;
+ border-radius: 10px;
+ width: 75px;
+ text-align: center;
+}
+.blok:hover {
+    background-color:#627E76;
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+    color:black ;
+
+}

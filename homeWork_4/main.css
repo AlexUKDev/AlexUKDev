@@ -1,0 +1,31 @@
+* {
+    color:black;
+}
+.container {
+    display: block;
+    padding: 0;
+    }
+    .head {
+        font-size: 120%;
+        padding: 3px 3px;
+        margin: 5px 5px;
+        color: black;
+        background-color:#2577C7;
+        border-radius: 5px;
+        padding-left: 15px;
+        opacity: 1;
+    }
+    
+    .homeWork {
+        font-size: 130%;
+        padding: 3px 3px;
+        margin: 5px 5px;
+        background-color: #2577C7;
+        border-radius: 5px;
+        padding: 10px 10px 10px 10px;
+        opacity: .8;
+    }
+    .homeWork:hover {
+        opacity: 1;
+        cursor: pointer;
+    }
