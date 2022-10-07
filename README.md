@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AlexUKDev
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML + CSS + SASS (SCSS) +
-adaptive and responsive layout vs 
-adaptive graphics + JS (in GoIT Shool)
+- 🌱 I’m currently learning JS + React (in GoIT Shool)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
